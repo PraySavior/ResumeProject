@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ResumeProject/static/css/main.6d2d13bc.css",
+    "main.js": "/ResumeProject/static/js/main.b2284515.js",
+    "static/js/453.0cc0ac16.chunk.js": "/ResumeProject/static/js/453.0cc0ac16.chunk.js",
+    "static/media/image_1.jpg": "/ResumeProject/static/media/image_1.3a0f173600cb2360f7fb.jpg",
+    "index.html": "/ResumeProject/index.html",
+    "main.6d2d13bc.css.map": "/ResumeProject/static/css/main.6d2d13bc.css.map",
+    "main.b2284515.js.map": "/ResumeProject/static/js/main.b2284515.js.map",
+    "453.0cc0ac16.chunk.js.map": "/ResumeProject/static/js/453.0cc0ac16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d2d13bc.css",
+    "static/js/main.b2284515.js"
+  ]
+}
